@@ -49,6 +49,7 @@ app.get('/', (req, res) => {
 <h1 style="color:black">Hello Users</h1>
 <h1 style="color:black">Priyansu Gupta</h1>
 <h2 style="color:black">Great things Take Time!!</h1>
+<h2 style="color:black">God help those who help themselves!!</h1>
 
     <div class="container">
         <h1>CI/CD Pipeline Success!</h1>
